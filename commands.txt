@@ -1,0 +1,1 @@
+firebase database:set /paso_a_paso estado.json -P apis-varias-mias

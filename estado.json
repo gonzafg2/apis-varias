@@ -1,0 +1,1727 @@
+[
+  {
+    "COMUNA": "Aisén",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Algarrobo",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Alhué",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Alto Biobío",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Alto del Carmen",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Alto Hospicio",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Ancud",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Andacollo",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Angol",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Antofagasta",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Antuco",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Arauco",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Arica",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Buin",
+    "Paso": 4,
+    "ESTADO": "Apertura inicial"
+  },
+  {
+    "COMUNA": "Bulnes",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Cabildo",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Cabo de Hornos",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Cabrero",
+    "Paso": 3,
+    "ESTADO": "Preparación desde el jueves 26 de noviembre a las 5:00 hrs."
+  },
+  {
+    "COMUNA": "Calama",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Calbuco",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Caldera",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Calera",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Calera de Tango",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Calle Larga",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Camarones",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Camiña",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Canela",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Cañete",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Carahue",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Cartagena",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Casablanca",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Castro",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Catemu",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Cauquenes",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Cerrillos",
+    "Paso": 4,
+    "ESTADO": "Apertura inicial"
+  },
+  {
+    "COMUNA": "Cerro Navia",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Chaitén",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Chanco",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Chañaral",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Chepica",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Chiguayante",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Chile Chico",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Chillán",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Chillán Viejo",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Chimbarongo",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Cholchol",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Chonchi",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Cisnes",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Cobquecura",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Cochamó",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Cochrane",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Codegua",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Coelemu",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Coihueco",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Coinco",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Colbún",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Colchane",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Colina",
+    "Paso": 4,
+    "ESTADO": "Apertura inicial"
+  },
+  {
+    "COMUNA": "Collipulli",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Coltauco",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Combarbalá",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Con Con",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Concepción",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Conchalí",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Constitución",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Contulmo",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Copiapó",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Coquimbo",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Coronel",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Corral",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Coyhaique",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Cunco",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Curacautín",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Curacaví",
+    "Paso": 4,
+    "ESTADO": "Apertura inicial"
+  },
+  {
+    "COMUNA": "Curaco de Vélez",
+    "Paso": 2,
+    "ESTADO": "Transición desde el jueves 26 de noviembre a las 5:00 hrs."
+  },
+  {
+    "COMUNA": "Curanilahue",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Curarrehue",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Curepto",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Curicó",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Dalcahue",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Diego de Almagro",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Doñihue",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "El Bosque",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "El Carmen",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "El Monte",
+    "Paso": 4,
+    "ESTADO": "Apertura inicial"
+  },
+  {
+    "COMUNA": "El Quisco",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "El Tabo",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Empedrado",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Ercilla",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Estación Central",
+    "Paso": 4,
+    "ESTADO": "Apertura inicial"
+  },
+  {
+    "COMUNA": "Florida",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Freire",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Freirina",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Fresia",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Frutillar",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Futaleufú",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Futrono",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Galvarino",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "General Lagos",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Gorbea",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Graneros",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Guaitecas",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Hijuelas",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Hualaihué",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Hualañé",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Hualpén",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Hualqui",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Huara",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Huasco",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Huechuraba",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Illapel",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Independencia",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Iquique",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Isla de Maipo",
+    "Paso": 3,
+    "ESTADO": "Preparación desde el jueves 26 de noviembre a las 5:00 hrs."
+  },
+  {
+    "COMUNA": "Isla de Pascua",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Juan Fernández",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "La Cisterna",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "La Cruz",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "La Estrella",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "La Florida",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "La Granja",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "La Higuera",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "La Ligua",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "La Pintana",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "La Reina",
+    "Paso": 4,
+    "ESTADO": "Apertura inicial"
+  },
+  {
+    "COMUNA": "La Serena",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "La Unión",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Lago Ranco",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Lago Verde",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Laguna Blanca",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Laja",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Lampa",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Lanco",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Las Cabras",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Las Condes",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Lautaro",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Lebu",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Licantén",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Limache",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Linares",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Litueche",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Llaillay",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Llanquihue",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Lo Barnechea",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Lo Espejo",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Lo Prado",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Lolol",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Loncoche",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Longaví",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Lonquimay",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Los Álamos",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Los Andes",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Los Ángeles",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Los Lagos",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Los Muermos",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Los Sauces",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Los Vilos",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Lota",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Lumaco",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Machalí",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Macul",
+    "Paso": 4,
+    "ESTADO": "Apertura inicial"
+  },
+  {
+    "COMUNA": "Máfil",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Maipú",
+    "Paso": 4,
+    "ESTADO": "Apertura inicial"
+  },
+  {
+    "COMUNA": "Malloa",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Marchihue",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Maria Elena",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Maria Pinto",
+    "Paso": 4,
+    "ESTADO": "Apertura inicial"
+  },
+  {
+    "COMUNA": "Mariquina",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Maule",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Maullín",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Mejillones",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Melipeuco",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Melipilla",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Molina",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Monte Patria",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Mostazal",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Mulchén",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Nacimiento",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Nancagua",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Natales",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Navidad",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Negrete",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Ninhue",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Nogales",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Nueva Imperial",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Ñiquén",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Ñuñoa",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "O'Higgins",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Olivar",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Ollagüe",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Olmué",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Osorno",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Ovalle",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Padre Hurtado",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Padre Las Casas",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Paihuano",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Paillaco",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Paine",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Palena",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Palmilla",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Panguipulli",
+    "Paso": 2,
+    "ESTADO": "Transición desde el jueves 26 de noviembre a las 5:00 hrs."
+  },
+  {
+    "COMUNA": "Panquehue",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Papudo",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Paredones",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Parral",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Pedro Aguirre Cerda",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Pelarco",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Pelluhue",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Pemuco",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Pencahue",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Penco",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Peñaflor",
+    "Paso": 4,
+    "ESTADO": "Apertura inicial"
+  },
+  {
+    "COMUNA": "Peñalolén",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Peralillo",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Perquenco",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Petorca",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Peumo",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Pica",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Pichidegua",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Pichilemu",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Pinto",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Pirque",
+    "Paso": 4,
+    "ESTADO": "Apertura inicial"
+  },
+  {
+    "COMUNA": "Pitrufquén",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Placilla",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Portezuelo",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Porvenir",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Pozo Almonte",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Primavera",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Providencia",
+    "Paso": 4,
+    "ESTADO": "Apertura inicial"
+  },
+  {
+    "COMUNA": "Puchuncaví",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Pucón",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Pudahuel",
+    "Paso": 4,
+    "ESTADO": "Apertura inicial"
+  },
+  {
+    "COMUNA": "Puente Alto",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Puerto Montt",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Puerto Octay",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Puerto Varas",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Pumanque",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Punitaqui",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Punta Arenas",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Puqueldón",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Purén",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Purranque",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Putaendo",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Putre",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Puyehue",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Queilén",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Quellón",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Quemchi",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Quilaco",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Quilicura",
+    "Paso": 4,
+    "ESTADO": "Apertura inicial"
+  },
+  {
+    "COMUNA": "Quilleco",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Quillón",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Quillota",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Quilpue",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Quinchao",
+    "Paso": 2,
+    "ESTADO": "Transición desde el jueves 26 de noviembre a las 5:00 hrs."
+  },
+  {
+    "COMUNA": "Quinta de Tilcoco",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Quinta Normal",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Quintero",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Quirihue",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Rancagua",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Ránquil",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Rauco",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Recoleta",
+    "Paso": 4,
+    "ESTADO": "Apertura inicial"
+  },
+  {
+    "COMUNA": "Renaico",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Renca",
+    "Paso": 4,
+    "ESTADO": "Apertura inicial"
+  },
+  {
+    "COMUNA": "Rengo",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Requínoa",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Retiro",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Rinconada",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Río Bueno",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Río Claro",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Río Hurtado",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Río Ibáñez",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Río Negro",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Río Verde",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Romeral",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Saavedra",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Sagrada Familia",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Salamanca",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "San Antonio",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "San Bernardo",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "San Carlos",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "San Clemente",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "San Esteban",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "San Fabián",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "San Felipe",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "San Fernando",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "San Gregorio",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "San Ignacio",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "San Javier",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "San Joaquín",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "San José de Maipo",
+    "Paso": 4,
+    "ESTADO": "Apertura inicial"
+  },
+  {
+    "COMUNA": "San Juan de la Costa",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "San Miguel",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "San Nicolás",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "San Pablo",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "San Pedro",
+    "Paso": 4,
+    "ESTADO": "Apertura inicial"
+  },
+  {
+    "COMUNA": "San Pedro de Atacama",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "San Pedro de la Paz",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "San Rafael",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "San Ramón",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "San Rosendo",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "San Vicente",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Santa Bárbara",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Santa Cruz",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Santa Juana",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Santa Maria",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Santiago",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Santo Domingo",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Sierra Gorda",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Talagante",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Talca",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Talcahuano",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Taltal",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Temuco",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Teno",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Teodoro Schmidt",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Tierra Amarilla",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Tiltil",
+    "Paso": 4,
+    "ESTADO": "Apertura inicial"
+  },
+  {
+    "COMUNA": "Timaukel",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Tirúa",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Tocopilla",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Toltén",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Tomé",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Torres del Paine",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Tortel",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Traiguén",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Treguaco",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Tucapel",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Valdivia",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Vallenar",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Valparaiso",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Vichuquén",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Victoria",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Vicuña",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Vilcún",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Villa Alegre",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Villa Alemana",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Villarrica",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Viña del Mar",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Vitacura",
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
+  },
+  {
+    "COMUNA": "Yerbas Buenas",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Yumbel",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Yungay",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Zapallar",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  }
+]
