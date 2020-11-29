@@ -3,7 +3,7 @@ const functions = require("firebase-functions");
 // Importamos firebase-admin para conectarnos con la base de datos
 const firebase = require("firebase-admin");
 // Importamos el archivo de configuración que descargamos
-const config = require("./apis-varias-mias-firebase-adminsdk.json");
+const config = require("./adminsdk.json");
 // inicializamos nuestra aplicación
 firebase.initializeApp({
   credential: firebase.credential.cert(config),
