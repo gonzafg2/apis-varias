@@ -87,7 +87,7 @@
   {
     "COMUNA": "Cabrero",
     "Paso": 3,
-    "ESTADO": "Preparación desde el jueves 26 de noviembre a las 5:00 hrs."
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Calama",
@@ -141,8 +141,8 @@
   },
   {
     "COMUNA": "Carahue",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el lunes 30 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Cartagena",
@@ -341,8 +341,8 @@
   },
   {
     "COMUNA": "Coronel",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
+    "Paso": 2,
+    "ESTADO": "Transición desde el lunes 30 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Corral",
@@ -351,18 +351,18 @@
   },
   {
     "COMUNA": "Coyhaique",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el lunes 30 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Cunco",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el lunes 30 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Curacautín",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el lunes 30 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Curacaví",
@@ -372,7 +372,7 @@
   {
     "COMUNA": "Curaco de Vélez",
     "Paso": 2,
-    "ESTADO": "Transición desde el jueves 26 de noviembre a las 5:00 hrs."
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Curanilahue",
@@ -496,8 +496,8 @@
   },
   {
     "COMUNA": "Gorbea",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el lunes 30 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Graneros",
@@ -516,8 +516,8 @@
   },
   {
     "COMUNA": "Hualaihué",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
+    "Paso": 2,
+    "ESTADO": "Transición desde el lunes 30 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Hualañé",
@@ -567,7 +567,7 @@
   {
     "COMUNA": "Isla de Maipo",
     "Paso": 3,
-    "ESTADO": "Preparación desde el jueves 26 de noviembre a las 5:00 hrs."
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Isla de Pascua",
@@ -601,8 +601,8 @@
   },
   {
     "COMUNA": "La Granja",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el sábado 28 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "La Higuera",
@@ -636,8 +636,8 @@
   },
   {
     "COMUNA": "Lago Ranco",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
+    "Paso": 2,
+    "ESTADO": "Transición desde el lunes 30 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Lago Verde",
@@ -721,8 +721,8 @@
   },
   {
     "COMUNA": "Lo Espejo",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el sábado 28 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Lo Prado",
@@ -786,8 +786,8 @@
   },
   {
     "COMUNA": "Lota",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
+    "Paso": 2,
+    "ESTADO": "Transición desde el lunes 30 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Lumaco",
@@ -846,8 +846,8 @@
   },
   {
     "COMUNA": "Maullín",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 28 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Mejillones",
@@ -856,13 +856,13 @@
   },
   {
     "COMUNA": "Melipeuco",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el lunes 30 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Melipilla",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el sábado 28 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Molina",
@@ -921,8 +921,8 @@
   },
   {
     "COMUNA": "Nueva Imperial",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el lunes 30 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Ñiquén",
@@ -956,8 +956,8 @@
   },
   {
     "COMUNA": "Osorno",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
+    "Paso": 2,
+    "ESTADO": "Transición desde el lunes 30 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Ovalle",
@@ -981,8 +981,8 @@
   },
   {
     "COMUNA": "Paillaco",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el sábado 28 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Paine",
@@ -1002,7 +1002,7 @@
   {
     "COMUNA": "Panguipulli",
     "Paso": 2,
-    "ESTADO": "Transición desde el jueves 26 de noviembre a las 5:00 hrs."
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Panquehue",
@@ -1051,8 +1051,8 @@
   },
   {
     "COMUNA": "Penco",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el lunes 30 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Peñaflor",
@@ -1156,8 +1156,8 @@
   },
   {
     "COMUNA": "Pudahuel",
-    "Paso": 4,
-    "ESTADO": "Apertura inicial"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el sábado 28 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Puente Alto",
@@ -1272,7 +1272,7 @@
   {
     "COMUNA": "Quinchao",
     "Paso": 2,
-    "ESTADO": "Transición desde el jueves 26 de noviembre a las 5:00 hrs."
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Quinta de Tilcoco",
@@ -1381,8 +1381,8 @@
   },
   {
     "COMUNA": "Saavedra",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el lunes 30 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Sagrada Familia",
@@ -1451,8 +1451,8 @@
   },
   {
     "COMUNA": "San Joaquín",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el sábado 28 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "San José de Maipo",
@@ -1631,8 +1631,8 @@
   },
   {
     "COMUNA": "Traiguén",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
+    "Paso": 2,
+    "ESTADO": "Transición desde el lunes 30 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Treguaco",
@@ -1666,8 +1666,8 @@
   },
   {
     "COMUNA": "Victoria",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el lunes 30 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Vicuña",
@@ -1691,8 +1691,8 @@
   },
   {
     "COMUNA": "Villarrica",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el lunes 30 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Viña del Mar",
@@ -1711,8 +1711,8 @@
   },
   {
     "COMUNA": "Yumbel",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el lunes 30 de noviembre a las 5:00 hrs."
   },
   {
     "COMUNA": "Yungay",
