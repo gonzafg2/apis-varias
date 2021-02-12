@@ -1,18 +1,18 @@
 [
   {
     "COMUNA": "Aisén",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Algarrobo",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Alhué",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
   },
   {
     "COMUNA": "Alto Biobío",
@@ -21,8 +21,8 @@
   },
   {
     "COMUNA": "Alto del Carmen",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Alto Hospicio",
@@ -31,23 +31,23 @@
   },
   {
     "COMUNA": "Ancud",
-    "Paso": 2,
-    "ESTADO": "Transición"
-  },
-  {
-    "COMUNA": "Andacollo",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
-  },
-  {
-    "COMUNA": "Angol",
     "Paso": 1,
     "ESTADO": "Cuarentena"
   },
   {
-    "COMUNA": "Antofagasta",
+    "COMUNA": "Andacollo",
     "Paso": 2,
-    "ESTADO": "Transición"
+    "ESTADO": "Transición desde el sábado 13 de febrero a las 5:00 hrs."
+  },
+  {
+    "COMUNA": "Angol",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Antofagasta",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Antuco",
@@ -61,18 +61,18 @@
   },
   {
     "COMUNA": "Arica",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Buin",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Bulnes",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Cabildo",
@@ -81,28 +81,28 @@
   },
   {
     "COMUNA": "Cabo de Hornos",
-    "Paso": 2,
-    "ESTADO": "Transición"
-  },
-  {
-    "COMUNA": "Cabrero",
-    "Paso": 2,
-    "ESTADO": "Transición"
-  },
-  {
-    "COMUNA": "Calama",
     "Paso": 3,
     "ESTADO": "Preparación"
   },
   {
-    "COMUNA": "Calbuco",
+    "COMUNA": "Cabrero",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Calama",
     "Paso": 2,
     "ESTADO": "Transición"
   },
   {
+    "COMUNA": "Calbuco",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
     "COMUNA": "Caldera",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el lunes 15 de febrero a las 5:00 hrs."
   },
   {
     "COMUNA": "Calera",
@@ -131,23 +131,23 @@
   },
   {
     "COMUNA": "Canela",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Cañete",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Carahue",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Cartagena",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Casablanca",
@@ -156,8 +156,8 @@
   },
   {
     "COMUNA": "Castro",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Catemu",
@@ -171,8 +171,8 @@
   },
   {
     "COMUNA": "Cerrillos",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Cerro Navia",
@@ -181,8 +181,8 @@
   },
   {
     "COMUNA": "Chaitén",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Chanco",
@@ -191,11 +191,11 @@
   },
   {
     "COMUNA": "Chañaral",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el lunes 15 de febrero a las 5:00 hrs."
   },
   {
-    "COMUNA": "Chepica",
+    "COMUNA": "Chépica",
     "Paso": 3,
     "ESTADO": "Preparación"
   },
@@ -206,18 +206,18 @@
   },
   {
     "COMUNA": "Chile Chico",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Chillán",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Chillán Viejo",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Chimbarongo",
@@ -226,13 +226,13 @@
   },
   {
     "COMUNA": "Cholchol",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Chonchi",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena (zona urbana)"
   },
   {
     "COMUNA": "Cisnes",
@@ -247,12 +247,12 @@
   {
     "COMUNA": "Cochamó",
     "Paso": 2,
-    "ESTADO": "Transición desde el sábado 9 de enero a las 5:00 hrs."
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Cochrane",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Codegua",
@@ -266,18 +266,18 @@
   },
   {
     "COMUNA": "Coihueco",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el sábado 13 de febrero a las 5:00 hrs."
   },
   {
     "COMUNA": "Coinco",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Colbún",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Colchane",
@@ -286,18 +286,18 @@
   },
   {
     "COMUNA": "Colina",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Collipulli",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Coltauco",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Combarbalá",
@@ -306,8 +306,8 @@
   },
   {
     "COMUNA": "Con Con",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Concepción",
@@ -321,58 +321,58 @@
   },
   {
     "COMUNA": "Constitución",
-    "Paso": 3,
-    "ESTADO": "Preparación"
-  },
-  {
-    "COMUNA": "Contulmo",
-    "Paso": 3,
-    "ESTADO": "Preparación"
-  },
-  {
-    "COMUNA": "Copiapó",
-    "Paso": 3,
-    "ESTADO": "Preparación desde el sábado 9 de enero a las 5:00 hrs."
-  },
-  {
-    "COMUNA": "Coquimbo",
-    "Paso": 3,
-    "ESTADO": "Preparación desde el sábado 9 de enero a las 5:00 hrs."
-  },
-  {
-    "COMUNA": "Coronel",
     "Paso": 1,
     "ESTADO": "Cuarentena"
   },
   {
+    "COMUNA": "Contulmo",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Copiapó",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "Coquimbo",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Coronel",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
     "COMUNA": "Corral",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Coyhaique",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Cunco",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Curacautín",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Curacaví",
     "Paso": 3,
     "ESTADO": "Preparación"
   },
   {
-    "COMUNA": "Curacaví",
-    "Paso": 2,
-    "ESTADO": "Transición"
-  },
-  {
     "COMUNA": "Curaco de Vélez",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena (zona urbana)"
   },
   {
     "COMUNA": "Curanilahue",
@@ -381,33 +381,33 @@
   },
   {
     "COMUNA": "Curarrehue",
-    "Paso": 3,
-    "ESTADO": "Preparación"
-  },
-  {
-    "COMUNA": "Curepto",
-    "Paso": 3,
-    "ESTADO": "Preparación"
-  },
-  {
-    "COMUNA": "Curicó",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
-  },
-  {
-    "COMUNA": "Dalcahue",
     "Paso": 2,
     "ESTADO": "Transición"
   },
   {
+    "COMUNA": "Curepto",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Curicó",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Dalcahue",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
     "COMUNA": "Diego de Almagro",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Doñihue",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "El Bosque",
@@ -436,8 +436,8 @@
   },
   {
     "COMUNA": "Empedrado",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Ercilla",
@@ -446,43 +446,43 @@
   },
   {
     "COMUNA": "Estación Central",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Florida",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Freire",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Freirina",
     "Paso": 2,
     "ESTADO": "Transición"
   },
   {
-    "COMUNA": "Freirina",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
-  },
-  {
     "COMUNA": "Fresia",
-    "Paso": 2,
-    "ESTADO": "Transición desde el sábado 9 de enero a las 5:00 hrs."
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Frutillar",
-    "Paso": 2,
-    "ESTADO": "Transición desde el sábado 9 de enero a las 5:00 hrs."
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Futaleufú",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial ."
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Futrono",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Galvarino",
@@ -496,13 +496,13 @@
   },
   {
     "COMUNA": "Gorbea",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Graneros",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Guaitecas",
@@ -516,18 +516,18 @@
   },
   {
     "COMUNA": "Hualaihué",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Hualañé",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Hualpén",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Hualqui",
@@ -536,13 +536,13 @@
   },
   {
     "COMUNA": "Huara",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Huasco",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Huechuraba",
@@ -551,13 +551,13 @@
   },
   {
     "COMUNA": "Illapel",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Independencia",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Iquique",
@@ -566,8 +566,8 @@
   },
   {
     "COMUNA": "Isla de Maipo",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Isla de Pascua",
@@ -596,18 +596,18 @@
   },
   {
     "COMUNA": "La Florida",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "La Granja",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "La Higuera",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "La Ligua",
@@ -621,23 +621,23 @@
   },
   {
     "COMUNA": "La Reina",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "La Serena",
     "Paso": 2,
     "ESTADO": "Transición"
   },
   {
-    "COMUNA": "La Serena",
-    "Paso": 3,
-    "ESTADO": "Preparación desde el sábado 9 de enero a las 5:00 hrs."
-  },
-  {
     "COMUNA": "La Unión",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 9 de enero a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Lago Ranco",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el lunes 15 de febrero a las 5:00 hrs."
   },
   {
     "COMUNA": "Lago Verde",
@@ -651,8 +651,8 @@
   },
   {
     "COMUNA": "Laja",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Lampa",
@@ -661,18 +661,18 @@
   },
   {
     "COMUNA": "Lanco",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Las Cabras",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Las Condes",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Lautaro",
@@ -681,13 +681,13 @@
   },
   {
     "COMUNA": "Lebu",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Licantén",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Limache",
@@ -696,8 +696,8 @@
   },
   {
     "COMUNA": "Linares",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Litueche",
@@ -711,13 +711,13 @@
   },
   {
     "COMUNA": "Llanquihue",
-    "Paso": 2,
-    "ESTADO": "Transición desde el sábado 9 de enero a las 5:00 hrs."
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Lo Barnechea",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Lo Espejo",
@@ -736,23 +736,23 @@
   },
   {
     "COMUNA": "Loncoche",
-    "Paso": 2,
-    "ESTADO": "Transición desde el sábado 9 de enero a las 5:00 hrs."
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Longaví",
+    "Paso": 2,
+    "ESTADO": "Transición desde el sábado 13 de febrero a las 5:00 hrs."
+  },
+  {
+    "COMUNA": "Lonquimay",
     "Paso": 3,
     "ESTADO": "Preparación"
   },
   {
-    "COMUNA": "Lonquimay",
-    "Paso": 2,
-    "ESTADO": "Transición"
-  },
-  {
     "COMUNA": "Los Álamos",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Los Andes",
@@ -761,33 +761,33 @@
   },
   {
     "COMUNA": "Los Ángeles",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Los Lagos",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Los Muermos",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Los Sauces",
+    "Paso": 3,
+    "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Los Vilos",
     "Paso": 2,
     "ESTADO": "Transición"
   },
   {
-    "COMUNA": "Los Vilos",
-    "Paso": 3,
-    "ESTADO": "Preparación desde el sábado 9 de enero a las 5:00 hrs."
-  },
-  {
     "COMUNA": "Lota",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
+    "Paso": 2,
+    "ESTADO": "Transición desde el lunes 15 de febrero a las 5:00 hrs."
   },
   {
     "COMUNA": "Lumaco",
@@ -801,23 +801,23 @@
   },
   {
     "COMUNA": "Macul",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el lunes 15 de febrero a las 5:00 hrs."
   },
   {
     "COMUNA": "Máfil",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
-  },
-  {
-    "COMUNA": "Maipú",
     "Paso": 2,
     "ESTADO": "Transición"
   },
   {
-    "COMUNA": "Malloa",
+    "COMUNA": "Maipú",
     "Paso": 3,
     "ESTADO": "Preparación"
+  },
+  {
+    "COMUNA": "Malloa",
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Marchihue",
@@ -826,38 +826,38 @@
   },
   {
     "COMUNA": "Maria Elena",
-    "Paso": 3,
-    "ESTADO": "Preparación"
-  },
-  {
-    "COMUNA": "Maria Pinto",
-    "Paso": 3,
-    "ESTADO": "Preparación"
-  },
-  {
-    "COMUNA": "Mariquina",
-    "Paso": 3,
-    "ESTADO": "Preparación desde el lunes 11 de enero a las 5:00 hrs."
-  },
-  {
-    "COMUNA": "Maule",
-    "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 9 de enero a las 5:00 hrs."
-  },
-  {
-    "COMUNA": "Maullín",
     "Paso": 2,
     "ESTADO": "Transición"
   },
   {
+    "COMUNA": "Maria Pinto",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Mariquina",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Maule",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Maullín",
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
+  },
+  {
     "COMUNA": "Mejillones",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Melipeuco",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Melipilla",
@@ -866,8 +866,8 @@
   },
   {
     "COMUNA": "Molina",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Monte Patria",
@@ -876,13 +876,13 @@
   },
   {
     "COMUNA": "Mostazal",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Mulchén",
     "Paso": 2,
-    "ESTADO": "Transición desde el sábado 9 de enero a las 5:00 hrs."
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Nacimiento",
@@ -891,8 +891,8 @@
   },
   {
     "COMUNA": "Nancagua",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Natales",
@@ -921,8 +921,8 @@
   },
   {
     "COMUNA": "Nueva Imperial",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Ñiquén",
@@ -931,8 +931,8 @@
   },
   {
     "COMUNA": "Ñuñoa",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "O'Higgins",
@@ -941,8 +941,8 @@
   },
   {
     "COMUNA": "Olivar",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Ollagüe",
@@ -951,33 +951,33 @@
   },
   {
     "COMUNA": "Olmué",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Osorno",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Ovalle",
     "Paso": 3,
-    "ESTADO": "Preparación desde el lunes 11 de enero a las 5:00 hrs."
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Padre Hurtado",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Padre Las Casas",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Paihuano",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Paillaco",
@@ -991,18 +991,18 @@
   },
   {
     "COMUNA": "Palena",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Palmilla",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Panguipulli",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Panquehue",
@@ -1016,13 +1016,13 @@
   },
   {
     "COMUNA": "Paredones",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Parral",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Pedro Aguirre Cerda",
@@ -1036,8 +1036,8 @@
   },
   {
     "COMUNA": "Pelluhue",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el sábado 13 de febrero a las 5:00 hrs."
   },
   {
     "COMUNA": "Pemuco",
@@ -1046,13 +1046,13 @@
   },
   {
     "COMUNA": "Pencahue",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Penco",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Peñaflor",
@@ -1061,33 +1061,33 @@
   },
   {
     "COMUNA": "Peñalolén",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Peralillo",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Perquenco",
     "Paso": 2,
-    "ESTADO": "Transición"
+    "ESTADO": "Transición desde el lunes 15 de febrero a las 5:00 hrs."
   },
   {
     "COMUNA": "Petorca",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Peumo",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Pica",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Pichidegua",
@@ -1096,23 +1096,23 @@
   },
   {
     "COMUNA": "Pichilemu",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Pinto",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el sábado 13 de febrero a las 5:00 hrs."
   },
   {
     "COMUNA": "Pirque",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Pitrufquén",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Placilla",
@@ -1121,8 +1121,8 @@
   },
   {
     "COMUNA": "Portezuelo",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Porvenir",
@@ -1131,8 +1131,8 @@
   },
   {
     "COMUNA": "Pozo Almonte",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Primavera",
@@ -1141,8 +1141,8 @@
   },
   {
     "COMUNA": "Providencia",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Puchuncaví",
@@ -1151,8 +1151,8 @@
   },
   {
     "COMUNA": "Pucón",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Pudahuel",
@@ -1161,28 +1161,28 @@
   },
   {
     "COMUNA": "Puente Alto",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Puerto Montt",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Puerto Octay",
-    "Paso": 2,
-    "ESTADO": "Transición desde el sábado 9 de enero a las 5:00 hrs."
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Puerto Varas",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Pumanque",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Punitaqui",
@@ -1201,13 +1201,13 @@
   },
   {
     "COMUNA": "Purén",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Purranque",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Putaendo",
@@ -1221,8 +1221,8 @@
   },
   {
     "COMUNA": "Puyehue",
-    "Paso": 2,
-    "ESTADO": "Transición desde el sábado 9 de enero a las 5:00 hrs."
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Queilén",
@@ -1231,13 +1231,13 @@
   },
   {
     "COMUNA": "Quellón",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Quemchi",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Quilaco",
@@ -1256,8 +1256,8 @@
   },
   {
     "COMUNA": "Quillón",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Quillota",
@@ -1266,18 +1266,18 @@
   },
   {
     "COMUNA": "Quilpué",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Quinchao",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Quinta de Tilcoco",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Quinta Normal",
@@ -1291,13 +1291,13 @@
   },
   {
     "COMUNA": "Quirihue",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Rancagua",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Ránquil",
@@ -1306,8 +1306,8 @@
   },
   {
     "COMUNA": "Rauco",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Recoleta",
@@ -1316,8 +1316,8 @@
   },
   {
     "COMUNA": "Renaico",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Renca",
@@ -1326,13 +1326,13 @@
   },
   {
     "COMUNA": "Rengo",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Requínoa",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Retiro",
@@ -1347,12 +1347,12 @@
   {
     "COMUNA": "Río Bueno",
     "Paso": 2,
-    "ESTADO": "Transición"
+    "ESTADO": "Transición desde el lunes 15 de febrero a las 5:00 hrs."
   },
   {
     "COMUNA": "Río Claro",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Río Hurtado",
@@ -1366,8 +1366,8 @@
   },
   {
     "COMUNA": "Río Negro",
-    "Paso": 2,
-    "ESTADO": "Transición desde el sábado 9 de enero a las 5:00 hrs."
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Río Verde",
@@ -1376,28 +1376,28 @@
   },
   {
     "COMUNA": "Romeral",
+    "Paso": 2,
+    "ESTADO": "Transición"
+  },
+  {
+    "COMUNA": "Saavedra",
     "Paso": 1,
     "ESTADO": "Cuarentena"
   },
   {
-    "COMUNA": "Saavedra",
+    "COMUNA": "Sagrada Familia",
     "Paso": 2,
     "ESTADO": "Transición"
   },
   {
-    "COMUNA": "Sagrada Familia",
+    "COMUNA": "Salamanca",
     "Paso": 3,
     "ESTADO": "Preparación"
   },
   {
-    "COMUNA": "Salamanca",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
-  },
-  {
     "COMUNA": "San Antonio",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "San Bernardo",
@@ -1406,13 +1406,13 @@
   },
   {
     "COMUNA": "San Carlos",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "San Clemente",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "San Esteban",
@@ -1431,8 +1431,8 @@
   },
   {
     "COMUNA": "San Fernando",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "San Gregorio",
@@ -1441,13 +1441,13 @@
   },
   {
     "COMUNA": "San Ignacio",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "San Javier",
-    "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 9 de enero a las 5:00 hrs."
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "San Joaquín",
@@ -1456,13 +1456,13 @@
   },
   {
     "COMUNA": "San José de Maipo",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "San Juan de la Costa",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "San Miguel",
@@ -1471,23 +1471,23 @@
   },
   {
     "COMUNA": "San Nicolás",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "San Pablo",
-    "Paso": 2,
-    "ESTADO": "Transición desde el sábado 9 de enero a las 5:00 hrs."
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "San Pedro",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
   },
   {
     "COMUNA": "San Pedro de Atacama",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "San Pedro de la Paz",
@@ -1496,13 +1496,13 @@
   },
   {
     "COMUNA": "San Rafael",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "San Ramón",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "San Rosendo",
@@ -1511,23 +1511,23 @@
   },
   {
     "COMUNA": "San Vicente",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Santa Bárbara",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Santa Cruz",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Santa Juana",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Santa Maria",
@@ -1536,8 +1536,8 @@
   },
   {
     "COMUNA": "Santiago",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Santo Domingo",
@@ -1556,8 +1556,8 @@
   },
   {
     "COMUNA": "Talca",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Talcahuano",
@@ -1581,18 +1581,18 @@
   },
   {
     "COMUNA": "Teodoro Schmidt",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Tierra Amarilla",
-    "Paso": 3,
-    "ESTADO": "Preparación desde el sábado 9 de enero a las 5:00 hrs."
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Tiltil",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 4,
+    "ESTADO": "Apertura Inicial"
   },
   {
     "COMUNA": "Timaukel",
@@ -1606,13 +1606,13 @@
   },
   {
     "COMUNA": "Tocopilla",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Toltén",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Tomé",
@@ -1631,18 +1631,18 @@
   },
   {
     "COMUNA": "Traiguén",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Treguaco",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el sábado 13 de febrero a las 5:00 hrs."
   },
   {
     "COMUNA": "Tucapel",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Valdivia",
@@ -1651,8 +1651,8 @@
   },
   {
     "COMUNA": "Vallenar",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Valparaiso",
@@ -1661,18 +1661,18 @@
   },
   {
     "COMUNA": "Vichuquén",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Victoria",
-    "Paso": 2,
-    "ESTADO": "Transición desde el sábado 9 de enero a las 5:00 hrs."
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Vicuña",
-    "Paso": 4,
-    "ESTADO": "Apertura Inicial"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Vilcún",
@@ -1686,8 +1686,8 @@
   },
   {
     "COMUNA": "Villa Alemana",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Villarrica",
@@ -1701,8 +1701,8 @@
   },
   {
     "COMUNA": "Vitacura",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Yerbas Buenas",
@@ -1711,13 +1711,13 @@
   },
   {
     "COMUNA": "Yumbel",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Yungay",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el sábado 13 de febrero a las 5:00 hrs."
   },
   {
     "COMUNA": "Zapallar",
