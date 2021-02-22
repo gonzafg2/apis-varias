@@ -1,0 +1,122 @@
+[
+  {
+    "id": "P001",
+    "price": 3950,
+    "name": "napolitana",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-salame.jpg?alt=media&token=ab3d4bf8-01f2-4810-982b-bd7fb6b517b2",
+    "ing": [
+      {
+        "name": "queso"
+      },
+      {
+        "name": "tomate"
+      },
+      {
+        "name": "jamón"
+      },
+      {
+        "name": "orégano"
+      }
+    ]
+  },
+  {
+    "id": "P002",
+    "price": 4250,
+    "name": "española",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-salame.jpg?alt=media&token=ab3d4bf8-01f2-4810-982b-bd7fb6b517b2",
+    "ing": [
+      {
+        "name": "queso"
+      },
+      {
+        "name": "tomate"
+      },
+      {
+        "name": "choricillo"
+      },
+      {
+        "name": "orégano"
+      }
+    ]
+  },
+  {
+    "id": "P003",
+    "price": 3990,
+    "name": "salame",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-salame.jpg?alt=media&token=ab3d4bf8-01f2-4810-982b-bd7fb6b517b2",
+    "ing": [
+      {
+        "name": "queso"
+      },
+      {
+        "name": "tomate"
+      },
+      {
+        "name": "salame"
+      },
+      {
+        "name": "orégano"
+      }
+    ]
+  },
+  {
+    "id": "P004",
+    "price": 4590,
+    "name": "cuatro estaciones",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-4.jpg?alt=media&token=7d64e7df-03ce-44bd-9b40-8c38d2f4f71f",
+    "ing": [
+      {
+        "name": "queso"
+      },
+      {
+        "name": "salame"
+      },
+      {
+        "name": "aceitunas"
+      },
+      {
+        "name": "champiñones"
+      }
+    ]
+  },
+  {
+    "id": "P005",
+    "price": 4450,
+    "name": "bacon",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-4.jpg?alt=media&token=7d64e7df-03ce-44bd-9b40-8c38d2f4f71f",
+    "ing": [
+      {
+        "name": "queso"
+      },
+      {
+        "name": "tomate cherry"
+      },
+      {
+        "name": "bacon"
+      },
+      {
+        "name": "orégano"
+      }
+    ]
+  },
+  {
+    "id": "P006",
+    "price": 4500,
+    "name": "pollo picante",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-4.jpg?alt=media&token=7d64e7df-03ce-44bd-9b40-8c38d2f4f71f",
+    "ing": [
+      {
+        "name": "queso"
+      },
+      {
+        "name": "pimientos"
+      },
+      {
+        "name": "pollo grillé"
+      },
+      {
+        "name": "orégano"
+      }
+    ]
+  }
+]

@@ -1,1 +1,3 @@
 firebase database:set /paso_a_paso estado.json -P apis-varias-mias
+
+firebase database:set /pizzeria pizzas.json -P apis-varias-mias

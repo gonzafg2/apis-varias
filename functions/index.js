@@ -21,3 +21,15 @@ exports.api = functions.https.onRequest((req, res) => {
     });
   }
 });
+
+exports.pizzeria = functions.https.onRequest((req, res) => {
+  res.header("Content-Type", "application/json");
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "Content-Type");
+  if (req.method === "GET") {
+    const data = firebase.database().ref("/pizzeria"); // Hacemos referencia a la base de datos
+    data.on("value", (snapshot) => {
+      res.json(snapshot.val()); // El elemento resultante lo exponemos en un archivo JSON
+    });
+  }
+});
