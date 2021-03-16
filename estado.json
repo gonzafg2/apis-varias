@@ -86,8 +86,8 @@
   },
   {
     "COMUNA": "Cabrero",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Calama",
@@ -132,7 +132,7 @@
   {
     "COMUNA": "Canela",
     "Paso": 3,
-    "ESTADO": "Preparación desde el lunes 15 de marzo a las 5:00 hrs."
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Cañete",
@@ -171,8 +171,8 @@
   },
   {
     "COMUNA": "Cerrillos",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Cerro Navia",
@@ -186,8 +186,8 @@
   },
   {
     "COMUNA": "Chanco",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Chañaral",
@@ -211,13 +211,13 @@
   },
   {
     "COMUNA": "Chillán",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Chillán Viejo",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Chimbarongo",
@@ -246,8 +246,8 @@
   },
   {
     "COMUNA": "Cochamó",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Cochrane",
@@ -352,7 +352,7 @@
   {
     "COMUNA": "Coyhaique",
     "Paso": 3,
-    "ESTADO": "Preparación desde el lunes 15 de marzo a las 5:00 hrs."
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Cunco",
@@ -411,8 +411,8 @@
   },
   {
     "COMUNA": "El Bosque",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "El Carmen",
@@ -476,8 +476,8 @@
   },
   {
     "COMUNA": "Futaleufú",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Futrono",
@@ -486,8 +486,8 @@
   },
   {
     "COMUNA": "Galvarino",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "General Lagos",
@@ -516,8 +516,8 @@
   },
   {
     "COMUNA": "Hualaihué",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
+    "Paso": 2,
+    "ESTADO": "Transición desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Hualañé",
@@ -541,8 +541,8 @@
   },
   {
     "COMUNA": "Huasco",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Huechuraba",
@@ -566,8 +566,8 @@
   },
   {
     "COMUNA": "Isla de Maipo",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Isla de Pascua",
@@ -586,8 +586,8 @@
   },
   {
     "COMUNA": "La Cruz",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "La Estrella",
@@ -596,8 +596,8 @@
   },
   {
     "COMUNA": "La Florida",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "La Granja",
@@ -691,8 +691,8 @@
   },
   {
     "COMUNA": "Limache",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Linares",
@@ -726,13 +726,13 @@
   },
   {
     "COMUNA": "Lo Prado",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Lolol",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Loncoche",
@@ -746,8 +746,8 @@
   },
   {
     "COMUNA": "Lonquimay",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Los Álamos",
@@ -856,8 +856,8 @@
   },
   {
     "COMUNA": "Melipeuco",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
+    "Paso": 2,
+    "ESTADO": "Transición desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Melipilla",
@@ -871,8 +871,8 @@
   },
   {
     "COMUNA": "Monte Patria",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Mostazal",
@@ -881,8 +881,8 @@
   },
   {
     "COMUNA": "Mulchén",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Nacimiento",
@@ -896,8 +896,8 @@
   },
   {
     "COMUNA": "Natales",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Navidad",
@@ -921,13 +921,13 @@
   },
   {
     "COMUNA": "Nueva Imperial",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
+    "Paso": 2,
+    "ESTADO": "Transición desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Ñiquén",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Ñuñoa",
@@ -966,8 +966,8 @@
   },
   {
     "COMUNA": "Padre Hurtado",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Padre Las Casas",
@@ -1021,8 +1021,8 @@
   },
   {
     "COMUNA": "Parral",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
+    "Paso": 2,
+    "ESTADO": "Transición desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Pedro Aguirre Cerda",
@@ -1081,8 +1081,8 @@
   },
   {
     "COMUNA": "Peumo",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Pica",
@@ -1091,8 +1091,8 @@
   },
   {
     "COMUNA": "Pichidegua",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Pichilemu",
@@ -1146,8 +1146,8 @@
   },
   {
     "COMUNA": "Puchuncaví",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Pucón",
@@ -1171,8 +1171,8 @@
   },
   {
     "COMUNA": "Puerto Octay",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Puerto Varas",
@@ -1191,18 +1191,18 @@
   },
   {
     "COMUNA": "Punta Arenas",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Puqueldón",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Purén",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
+    "Paso": 2,
+    "ESTADO": "Transición desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Purranque",
@@ -1251,8 +1251,8 @@
   },
   {
     "COMUNA": "Quilleco",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Quillón",
@@ -1281,8 +1281,8 @@
   },
   {
     "COMUNA": "Quinta Normal",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Quintero",
@@ -1321,8 +1321,8 @@
   },
   {
     "COMUNA": "Renca",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Rengo",
@@ -1341,8 +1341,8 @@
   },
   {
     "COMUNA": "Rinconada",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Río Bueno",
@@ -1351,8 +1351,8 @@
   },
   {
     "COMUNA": "Río Claro",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Río Hurtado",
@@ -1466,8 +1466,8 @@
   },
   {
     "COMUNA": "San Miguel",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "San Nicolás",
@@ -1476,8 +1476,8 @@
   },
   {
     "COMUNA": "San Pablo",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "San Pedro",
@@ -1516,8 +1516,8 @@
   },
   {
     "COMUNA": "Santa Bárbara",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Santa Cruz",
@@ -1556,8 +1556,8 @@
   },
   {
     "COMUNA": "Talca",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Talcahuano",
@@ -1566,8 +1566,8 @@
   },
   {
     "COMUNA": "Taltal",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Temuco",
@@ -1636,13 +1636,13 @@
   },
   {
     "COMUNA": "Treguaco",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Tucapel",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Valdivia",
@@ -1716,8 +1716,8 @@
   },
   {
     "COMUNA": "Yungay",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el jueves 18 de marzo a las 05:00 hrs."
   },
   {
     "COMUNA": "Zapallar",
