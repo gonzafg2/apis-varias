@@ -11,8 +11,8 @@
   },
   {
     "COMUNA": "Alhué",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Alto Biobío",
@@ -21,13 +21,13 @@
   },
   {
     "COMUNA": "Alto del Carmen",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Alto Hospicio",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Ancud",
@@ -36,8 +36,8 @@
   },
   {
     "COMUNA": "Andacollo",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Angol",
@@ -46,8 +46,8 @@
   },
   {
     "COMUNA": "Antofagasta",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Antuco",
@@ -67,17 +67,17 @@
   {
     "COMUNA": "Buin",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Bulnes",
     "Paso": 3,
-    "ESTADO": "Preparación desde el lunes 22 de marzo a las 5:00 hrs."
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Cabildo",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Cabo de Hornos",
@@ -106,13 +106,13 @@
   },
   {
     "COMUNA": "Calera",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Calera de Tango",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Calle Larga",
@@ -146,8 +146,8 @@
   },
   {
     "COMUNA": "Cartagena",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Casablanca",
@@ -161,8 +161,8 @@
   },
   {
     "COMUNA": "Catemu",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Cauquenes",
@@ -176,8 +176,8 @@
   },
   {
     "COMUNA": "Cerro Navia",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Chaitén",
@@ -197,7 +197,7 @@
   {
     "COMUNA": "Chépica",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Chiguayante",
@@ -222,7 +222,7 @@
   {
     "COMUNA": "Chimbarongo",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Cholchol",
@@ -241,8 +241,8 @@
   },
   {
     "COMUNA": "Cobquecura",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Cochamó",
@@ -256,8 +256,8 @@
   },
   {
     "COMUNA": "Codegua",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Coelemu",
@@ -272,7 +272,7 @@
   {
     "COMUNA": "Coinco",
     "Paso": 3,
-    "ESTADO": "Preparación desde el lunes 22 de marzo a las 5:00 hrs."
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Colbún",
@@ -286,8 +286,8 @@
   },
   {
     "COMUNA": "Colina",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Collipulli",
@@ -301,13 +301,13 @@
   },
   {
     "COMUNA": "Combarbalá",
-    "Paso": 2,
-    "ESTADO": "Transición desde el sábado 20 de marzo a las 5:00 hrs."
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Con Con",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Concepción",
@@ -316,8 +316,8 @@
   },
   {
     "COMUNA": "Conchalí",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Constitución",
@@ -362,17 +362,17 @@
   {
     "COMUNA": "Curacautín",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Curacaví",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Curaco de Vélez",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Curanilahue",
@@ -382,12 +382,12 @@
   {
     "COMUNA": "Curarrehue",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Curepto",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Curicó",
@@ -401,8 +401,8 @@
   },
   {
     "COMUNA": "Diego de Almagro",
-    "Paso": 2,
-    "ESTADO": "Transición desde el sábado 20 de marzo a las 5:00 hrs."
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Doñihue",
@@ -416,18 +416,18 @@
   },
   {
     "COMUNA": "El Carmen",
-    "Paso": 3,
-    "ESTADO": "Preparación"
-  },
-  {
-    "COMUNA": "El Monte",
     "Paso": 2,
     "ESTADO": "Transición"
   },
   {
-    "COMUNA": "El Quisco",
+    "COMUNA": "El Monte",
     "Paso": 1,
     "ESTADO": "Cuarentena"
+  },
+  {
+    "COMUNA": "El Quisco",
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "El Tabo",
@@ -446,13 +446,13 @@
   },
   {
     "COMUNA": "Estación Central",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Florida",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Freire",
@@ -496,13 +496,13 @@
   },
   {
     "COMUNA": "Gorbea",
-    "Paso": 2,
-    "ESTADO": "Transición desde el sábado 20 de marzo a las 5:00 hrs."
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Graneros",
-    "Paso": 2,
-    "ESTADO": "Transición desde el sábado 20 de marzo a las 5:00 hrs."
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Guaitecas",
@@ -521,8 +521,8 @@
   },
   {
     "COMUNA": "Hualañé",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Hualpén",
@@ -546,23 +546,23 @@
   },
   {
     "COMUNA": "Huechuraba",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Illapel",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Independencia",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Iquique",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Isla de Maipo",
@@ -582,12 +582,12 @@
   {
     "COMUNA": "La Cisterna",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "La Cruz",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "La Estrella",
@@ -601,8 +601,8 @@
   },
   {
     "COMUNA": "La Granja",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "La Higuera",
@@ -616,13 +616,13 @@
   },
   {
     "COMUNA": "La Pintana",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "La Reina",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "La Serena",
@@ -651,13 +651,13 @@
   },
   {
     "COMUNA": "Laja",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Lampa",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Lanco",
@@ -666,18 +666,18 @@
   },
   {
     "COMUNA": "Las Cabras",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
-  },
-  {
-    "COMUNA": "Las Condes",
     "Paso": 2,
     "ESTADO": "Transición"
   },
   {
+    "COMUNA": "Las Condes",
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
+  },
+  {
     "COMUNA": "Lautaro",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Lebu",
@@ -691,8 +691,8 @@
   },
   {
     "COMUNA": "Limache",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Linares",
@@ -701,13 +701,13 @@
   },
   {
     "COMUNA": "Litueche",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Llaillay",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Llanquihue",
@@ -716,13 +716,13 @@
   },
   {
     "COMUNA": "Lo Barnechea",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Lo Espejo",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Lo Prado",
@@ -731,8 +731,8 @@
   },
   {
     "COMUNA": "Lolol",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el lunes 29 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Loncoche",
@@ -752,7 +752,7 @@
   {
     "COMUNA": "Los Álamos",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Los Andes",
@@ -781,8 +781,8 @@
   },
   {
     "COMUNA": "Los Vilos",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Lota",
@@ -801,8 +801,8 @@
   },
   {
     "COMUNA": "Macul",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Máfil",
@@ -811,8 +811,8 @@
   },
   {
     "COMUNA": "Maipú",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Malloa",
@@ -832,7 +832,7 @@
   {
     "COMUNA": "Maria Pinto",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Mariquina",
@@ -841,8 +841,8 @@
   },
   {
     "COMUNA": "Maule",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Maullín",
@@ -856,18 +856,18 @@
   },
   {
     "COMUNA": "Melipeuco",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Melipilla",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Molina",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Monte Patria",
@@ -876,8 +876,8 @@
   },
   {
     "COMUNA": "Mostazal",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Mulchén",
@@ -886,8 +886,8 @@
   },
   {
     "COMUNA": "Nacimiento",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Nancagua",
@@ -906,18 +906,18 @@
   },
   {
     "COMUNA": "Negrete",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Ninhue",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el lunes 29 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Nogales",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Nueva Imperial",
@@ -931,8 +931,8 @@
   },
   {
     "COMUNA": "Ñuñoa",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "O'Higgins",
@@ -941,8 +941,8 @@
   },
   {
     "COMUNA": "Olivar",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Ollagüe",
@@ -951,8 +951,8 @@
   },
   {
     "COMUNA": "Olmué",
-    "Paso": 2,
-    "ESTADO": "Transición desde el sábado 20 de marzo a las 5:00 hrs."
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Osorno",
@@ -961,8 +961,8 @@
   },
   {
     "COMUNA": "Ovalle",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Padre Hurtado",
@@ -986,13 +986,13 @@
   },
   {
     "COMUNA": "Paine",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Palena",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Palmilla",
@@ -1011,13 +1011,13 @@
   },
   {
     "COMUNA": "Papudo",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Paredones",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación desde el lunes 29 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Parral",
@@ -1026,8 +1026,8 @@
   },
   {
     "COMUNA": "Pedro Aguirre Cerda",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Pelarco",
@@ -1047,7 +1047,7 @@
   {
     "COMUNA": "Pencahue",
     "Paso": 2,
-    "ESTADO": "Transición desde el lunes 22 de marzo a las 5:00 hrs."
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Penco",
@@ -1056,18 +1056,18 @@
   },
   {
     "COMUNA": "Peñaflor",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Peñalolén",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Peralillo",
     "Paso": 3,
-    "ESTADO": "Preparación desde el lunes 22 de marzo a las 5:00 hrs."
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Perquenco",
@@ -1101,13 +1101,13 @@
   },
   {
     "COMUNA": "Pinto",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Pirque",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Pitrufquén",
@@ -1116,8 +1116,8 @@
   },
   {
     "COMUNA": "Placilla",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Portezuelo",
@@ -1141,8 +1141,8 @@
   },
   {
     "COMUNA": "Providencia",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Puchuncaví",
@@ -1152,17 +1152,17 @@
   {
     "COMUNA": "Pucón",
     "Paso": 2,
-    "ESTADO": "Transición desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Pudahuel",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Puente Alto",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Puerto Montt",
@@ -1211,8 +1211,8 @@
   },
   {
     "COMUNA": "Putaendo",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Putre",
@@ -1221,8 +1221,8 @@
   },
   {
     "COMUNA": "Puyehue",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Queilén",
@@ -1236,8 +1236,8 @@
   },
   {
     "COMUNA": "Quemchi",
-    "Paso": 1,
-    "ESTADO": "Cuarentena"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Quilaco",
@@ -1246,8 +1246,8 @@
   },
   {
     "COMUNA": "Quilicura",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Quilleco",
@@ -1256,8 +1256,8 @@
   },
   {
     "COMUNA": "Quillón",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Quillota",
@@ -1267,12 +1267,12 @@
   {
     "COMUNA": "Quilpué",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Quinchao",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Quinta de Tilcoco",
@@ -1291,13 +1291,13 @@
   },
   {
     "COMUNA": "Quirihue",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Rancagua",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Ránquil",
@@ -1306,13 +1306,13 @@
   },
   {
     "COMUNA": "Rauco",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Recoleta",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Renaico",
@@ -1337,7 +1337,7 @@
   {
     "COMUNA": "Retiro",
     "Paso": 3,
-    "ESTADO": "Preparación desde el lunes 22 de marzo a las 5:00 hrs."
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Rinconada",
@@ -1351,8 +1351,8 @@
   },
   {
     "COMUNA": "Río Claro",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Río Hurtado",
@@ -1367,7 +1367,7 @@
   {
     "COMUNA": "Río Negro",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Río Verde",
@@ -1401,18 +1401,18 @@
   },
   {
     "COMUNA": "San Bernardo",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "San Carlos",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "San Clemente",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "San Esteban",
@@ -1442,22 +1442,22 @@
   {
     "COMUNA": "San Ignacio",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "San Javier",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "San Joaquín",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "San José de Maipo",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "San Juan de la Costa",
@@ -1481,8 +1481,8 @@
   },
   {
     "COMUNA": "San Pedro",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "San Pedro de Atacama",
@@ -1502,7 +1502,7 @@
   {
     "COMUNA": "San Ramón",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "San Rosendo",
@@ -1511,8 +1511,8 @@
   },
   {
     "COMUNA": "San Vicente",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Santa Bárbara",
@@ -1521,23 +1521,23 @@
   },
   {
     "COMUNA": "Santa Cruz",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Santa Juana",
-    "Paso": 2,
-    "ESTADO": "Transición desde el sábado 20 de marzo a las 5:00 hrs."
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Santa Maria",
-    "Paso": 3,
-    "ESTADO": "Preparación"
+    "Paso": 2,
+    "ESTADO": "Transición desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Santiago",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Santo Domingo",
@@ -1552,7 +1552,7 @@
   {
     "COMUNA": "Talagante",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Talca",
@@ -1576,8 +1576,8 @@
   },
   {
     "COMUNA": "Teno",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Teodoro Schmidt",
@@ -1586,13 +1586,13 @@
   },
   {
     "COMUNA": "Tierra Amarilla",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Tiltil",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Timaukel",
@@ -1652,7 +1652,7 @@
   {
     "COMUNA": "Vallenar",
     "Paso": 2,
-    "ESTADO": "Transición desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Transición"
   },
   {
     "COMUNA": "Valparaiso",
@@ -1661,8 +1661,8 @@
   },
   {
     "COMUNA": "Vichuquén",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 3,
+    "ESTADO": "Preparación"
   },
   {
     "COMUNA": "Victoria",
@@ -1687,7 +1687,7 @@
   {
     "COMUNA": "Villa Alemana",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Villarrica",
@@ -1697,22 +1697,22 @@
   {
     "COMUNA": "Viña del Mar",
     "Paso": 1,
-    "ESTADO": "Cuarentena desde el sábado 20 de marzo a las 5:00 hrs."
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Vitacura",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena desde el sábado 27 de marzo a las 5:00 hrs."
   },
   {
     "COMUNA": "Yerbas Buenas",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Yumbel",
-    "Paso": 2,
-    "ESTADO": "Transición"
+    "Paso": 1,
+    "ESTADO": "Cuarentena"
   },
   {
     "COMUNA": "Yungay",
