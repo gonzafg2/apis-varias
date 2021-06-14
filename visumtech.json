@@ -1,0 +1,607 @@
+[
+  {
+    "banners": [
+      {
+        "smartwatches": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/banners%2Fsmartwatches-banner.png?alt=media&token=3dff33be-b0c4-4494-802c-4c77b2ea11d1",
+
+        "smartphones": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/banners%2Fsmartphones-banner.png?alt=media&token=7267084d-3f4e-461c-937a-83126377241a",
+
+        "notebooks": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/banners%2Fnotebooks-banner.png?alt=media&token=908de2e9-da25-4e43-946a-634337cc40ad",
+
+        "keyboards": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/banners%2Fkeyboards-banner.png?alt=media&token=236043ce-6f7d-42c8-9182-a9f93f69f81e"
+      }
+    ]
+  },
+
+  {
+    "smartwatches": [
+      {
+        "name": "Apple Watch S6",
+
+        "id": "W001",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/smartwatches%2Fapplewatch.png?alt=media&token=737a85c4-d8e1-4f5d-b0a4-65fc11b5064e",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fap1.jpg?alt=media&token=d1070298-0f3b-4114-bea2-ddbb8994abfe",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fap2.jpg?alt=media&token=c697bc67-ebe2-4040-a859-fa290c6489ac",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fap3.jpg?alt=media&token=9a329835-11cb-488b-a1d6-bf2d83a74df2"
+        ],
+
+        "desc": "Apple Watch S6 42mm. Frecuencia Cardiaca más poderosa, y un altímetro integrado.",
+
+        "price": 289990,
+
+        "specs": ["42mm", "AMOLED"],
+
+        "bestSeller": true
+      },
+
+      {
+        "name": "Galaxy Watch3",
+
+        "id": "W002",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/smartwatches%2Fgalaxywatch-white.png?alt=media&token=e80b869f-7aab-4c93-962a-9c6c0f0d592b",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fgw1.jpg?alt=media&token=a3bcb2e4-a72d-4a59-afaa-8b33d2671e90",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fgw2.jpg?alt=media&token=e23f0011-5303-4056-bd48-49a5744c13a5",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fgw3.jpg?alt=media&token=bb79263c-193e-47a5-b36e-09625d11502e"
+        ],
+
+        "desc": "El monitor de salud más avanzado en un smartwatch. Pantalla más grande, ligera y fina.",
+
+        "price": 194990,
+
+        "specs": ["44mm", "S-AMOLED"],
+
+        "bestSeller": true
+      },
+
+      {
+        "name": "Galaxy Fit2",
+
+        "id": "W003",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/smartwatches%2Fgalaxyfit.png?alt=media&token=c761b78e-c713-4da0-9ce9-4472c9df46c3",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fgf1.jpg?alt=media&token=66090395-aef9-43ff-82a5-6fa07f027c85",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fgf2.jpg?alt=media&token=85213fe2-aef2-4135-b1fb-b56b48a9c288",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fgf3.jpg?alt=media&token=40e03242-3c5f-4d8d-acb2-61b8d22733d9"
+        ],
+
+        "desc": "Galaxy Fit2 te ayudará a mantener tu ritmo y tu estilo, siendo lo último en monitores de actividad.",
+
+        "price": 49990,
+
+        "specs": ["24mm", "AMOLED"],
+
+        "bestSeller": false
+      },
+
+      {
+        "name": "Galaxy Active2",
+
+        "id": "W004",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/smartwatches%2Fgalaxywatch-black.png?alt=media&token=ed1f52cf-9e03-4e17-891b-ac6a1197eb74",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fgwb1.jpg?alt=media&token=e62336db-3cc4-4fdd-b3c1-fd8c90c4e56f",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fgwb2.jpg?alt=media&token=da790214-d60f-42f9-9b29-e449eafe9317",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fgwb3.jpg?alt=media&token=ff288438-41bb-4bb3-8c22-99c3606502d5"
+        ],
+
+        "desc": "Monitorizar tu salud es la esencia de Galaxy Active2, con ocho fotodiodos que se adaptan a tu muñeca.",
+
+        "price": 189990,
+
+        "specs": ["44mm", "AMOLED"],
+
+        "bestSeller": false
+      },
+
+      {
+        "name": "Huawei Watch GT2",
+
+        "id": "W005",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/smartwatches%2Fhuaweiwatch.png?alt=media&token=c538657e-d690-4a6b-9706-54ea9971199f",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fhw1.jpg?alt=media&token=87bf5e92-1cb0-4338-b8f5-7283f118856a",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fhw2.jpg?alt=media&token=bd3e2e45-6d41-4fda-a8da-5a7c0c97bb52",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fhw3.jpg?alt=media&token=81b71944-8c59-4e59-bc17-6e50b6dd01eb"
+        ],
+
+        "desc": "Siempre está explorando los límites de la vida de la batería de los relojes inteligentes.",
+
+        "price": 129990,
+
+        "specs": ["46mm", "AMOLED"],
+
+        "bestSeller": false
+      },
+
+      {
+        "name": "Mi Watch Lite",
+
+        "id": "W006",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/smartwatches%2Fxiaomiwatch.png?alt=media&token=0d80a418-a172-45a3-a7f1-fa897775dc59",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fmi1.jpg?alt=media&token=a1c3517e-7fb1-48a4-835b-47dd0e5023fe",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fmi2.jpg?alt=media&token=f40409f4-e4fb-4825-828f-bd897fc7ba23",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fmi3.jpg?alt=media&token=23578e5e-078e-4953-9360-265aaa4bd8e5"
+        ],
+
+        "desc": "Xiaomi Mi Watch Lite, reloj inteligente con 7 modos deportivos y monitor 24/7 de la frecuencia cardíaca.",
+
+        "price": 56990,
+
+        "specs": ["35mm", "GLONASS"],
+
+        "bestSeller": false
+      }
+    ]
+  },
+
+  {
+    "smartphones": [
+      {
+        "name": "Iphone 12 Pro",
+
+        "id": "P001",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/smartphones%2Fiphone12.png?alt=media&token=1a5e700c-367d-4c4d-95bd-68316e2738d4",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2F12.jpg?alt=media&token=52d94cac-b18a-4e56-baa0-2bf11dae128b",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2F12a.jpg?alt=media&token=d32475e8-4615-4b6f-a561-1cd6d8135448",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2F12b.jpg?alt=media&token=cf86e0e9-abf1-45f3-94c0-70fe38467ad0"
+        ],
+
+        "desc": "Color Grafito. Chip A14 Bionic. Pantalla Super Retina XDR. Modo Noche en todas las cámaras.",
+
+        "price": 869990,
+
+        "specs": ["12MP", "128GB"],
+
+        "bestSeller": true
+      },
+
+      {
+        "name": "Huawei P30 Pro",
+
+        "id": "P002",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/smartphones%2Fhuawei.png?alt=media&token=22e22c8a-ac69-4fc6-a408-fff023bd7f6e",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fh1.jpg?alt=media&token=0db08a02-b5f4-4d45-9030-203bc5cffef8",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fh2.jpg?alt=media&token=0bfa7ea6-b9a3-48e7-b725-855621e21b12",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fh3.jpg?alt=media&token=1410c74c-9a9e-430a-8561-9012f0bf3a28"
+        ],
+
+        "desc": "Huawei P30 Pro cuatro cámaras y zoom híbrido 10x para volver a revolucionar la fotografía móvil",
+
+        "price": 549990,
+
+        "specs": ["32MP", "256GB"],
+
+        "bestSeller": false
+      },
+
+      {
+        "name": "Iphone 11",
+
+        "id": "P003",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/smartphones%2Fiphone11.png?alt=media&token=92c0d59c-a10f-411b-9cbf-0acd8d34ae4c",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fi1.jpg?alt=media&token=efed2870-b66f-4e9c-8bd2-6b0d04fbfc59",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fi2.jpg?alt=media&token=8dc034f7-9ec9-4dc4-85ee-c4081dcde851",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fi3.jpg?alt=media&token=28078703-8e34-4cf9-afe2-40bd350742ab"
+        ],
+
+        "desc": "Pantalla de 6.1 pulgadas con resolución Liquid Retina y potenciado por un procesador Apple A13 Bionic",
+
+        "price": 839990,
+
+        "specs": ["12MP", "256GB"],
+
+        "bestSeller": false
+      },
+
+      {
+        "name": "Redmi Note 10 Pro",
+
+        "id": "P004",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/smartphones%2Fredminote.png?alt=media&token=a2d4c3fc-da89-4a64-aa0b-d7de4536ab87",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fs1.jpg?alt=media&token=632b2ba8-5cc3-40b8-b3b0-a0c9b6391d04",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fs2.jpg?alt=media&token=c3729829-f77e-45df-a03c-1822411600b8",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fs3.jpg?alt=media&token=b8af45a3-ebd2-4391-bb28-f5e1e1485942"
+        ],
+
+        "desc": "Pantalla AMOLED DotDisplay de 6,67. Potencia y rendimiento con Qualcomm Snapdragon 732G. 6GB de RAM.",
+
+        "price": 299990,
+
+        "specs": ["16MP", "128GB"],
+
+        "bestSeller": false
+      },
+
+      {
+        "name": "Samsung Galaxy S21",
+
+        "id": "P005",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/smartphones%2Fsamsung.png?alt=media&token=994aeb51-68d7-424c-b3f0-8daa434c5ce0",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fsam1.jpg?alt=media&token=de4b6e25-5fcc-426a-bc22-30767292d16f",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fsam2.jpg?alt=media&token=242e9562-5f8d-48fd-ae96-da858ec7a8d3",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fsam3.jpg?alt=media&token=5afa04aa-9332-4c52-a44b-c154788e4833"
+        ],
+
+        "desc": "Pantalla 120 Hz Dynamic AMOLED, 6.8 pulgadas, Edge Quad HD+, Corning Gorilla Glass Victus",
+
+        "price": 729990,
+
+        "specs": ["10MP", "128GB"],
+
+        "bestSeller": false
+      },
+
+      {
+        "name": "Xiaomi Mi 11",
+
+        "id": "P006",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/smartphones%2Fxiaomi11.png?alt=media&token=1d2fb15e-a71d-49a3-a08c-9ee1a2ee7c06",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fxi1.jpg?alt=media&token=9dbaa69d-7e98-43db-861e-0592b637f550",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fxi2.jpg?alt=media&token=f270236e-d988-420a-a34c-7902719cb0bc",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fxi3.jpg?alt=media&token=953e4b78-6697-4396-bbf9-bbe51bab37ab"
+        ],
+
+        "desc": "Pantalla de 6.8 puldagas AMOLED DotDisplay. Potencia y rendimiento con Qualcomm Snapdragon 888.",
+
+        "price": 799990,
+
+        "specs": ["20MP", "256GB"],
+
+        "bestSeller": false
+      }
+    ]
+  },
+
+  {
+    "notebooks": [
+      {
+        "name": "Dell XPS 13",
+
+        "id": "N001",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/notebooks%2Fdellxps.png?alt=media&token=1da5fa08-1910-434b-b8a0-94313ceefcc7",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fdell1.jpg?alt=media&token=31f1bd20-7a8e-4c9d-a26b-f5318e9a2e0f",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fdell2.jpg?alt=media&token=90a60bd5-1338-44bd-90a8-7070aa30283c",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fdell3.jpg?alt=media&token=3a2641bd-a942-4fea-8dd3-03e9d386909f"
+        ],
+
+        "desc": "Dell® Notebook 2en1 | 13.4 FHD Intel i7-1165G7 16GB 512GB SSD Intel Iris Xe Wi-Fi 6 Windows 10 Pro Black",
+
+        "price": 1745990,
+
+        "specs": ["13.4''", "512GB"],
+
+        "bestSeller": true
+      },
+
+      {
+        "name": "Razer Blade 15",
+
+        "id": "N002",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/notebooks%2Frazerblade.png?alt=media&token=8490f535-d045-4af3-80b0-40ef6142c6da",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fr1.jpg?alt=media&token=0b5da823-2f3b-4f02-8219-8ae7d9b3b7e1",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fr2.jpg?alt=media&token=f25d3553-5b26-4c0a-a2ce-975e6349ba3b",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fr3.jpg?alt=media&token=9a0be339-1ca0-47d3-98d9-a5bb035a7824"
+        ],
+
+        "desc": "Portátil para juegos más pequeño del mundo de 15,6 pulgadas – NVIDIA GeForce GTX 1070 Max-Q",
+
+        "price": 2249990,
+
+        "specs": ["15.6''", "1TB"],
+
+        "bestSeller": false
+      },
+
+      {
+        "name": "Macbook Pro 16",
+
+        "id": "N003",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/notebooks%2Fmacbookpro.png?alt=media&token=6da01c8f-794c-428a-9fc0-bf8008428dfa",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fmac1.jpg?alt=media&token=88b5da88-6a66-4717-93e8-ebc7fd1b54ce",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fmac2.jpg?alt=media&token=0692f821-d6bb-4748-84fd-4454373edf9b",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fmac3.jpg?alt=media&token=66e21294-d256-479a-8b08-dfca7c9f4e7a"
+        ],
+
+        "desc": "Pantalla Retina, gráficos potentes, audio avanzado, Magic Keyboard y más almacenamiento que cualquier notebook.",
+
+        "price": 2449990,
+
+        "specs": ["16''", "1TB"],
+
+        "bestSeller": false
+      },
+
+      {
+        "name": "Alienware M15",
+
+        "id": "N004",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/notebooks%2Falienware.png?alt=media&token=e5fd6614-3eda-4b0b-bec3-9092156ec0d4",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Falien1.jpg?alt=media&token=40ca4e7b-5ab3-46f7-b425-55f9ac210ae1",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Falien2.jpg?alt=media&token=459ca5ea-fc6d-4238-85c6-84cd484863bf",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Falien3.jpg?alt=media&token=1f8a0006-4a06-4622-ab8d-2cd2f84dff2f"
+        ],
+
+        "desc": "El notebook de 15 pulgadas más delgado y poderoso de Alienware. Intel Core i7-10750H 2.6GHz FHD.",
+
+        "price": 2049990,
+
+        "specs": ["15.6''", "512GB"],
+
+        "bestSeller": true
+      },
+
+      {
+        "name": "HP Envy x360",
+
+        "id": "N005",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/notebooks%2Fhpenvy.png?alt=media&token=1dc92dad-3d3d-4d2a-be86-33b06d082f1c",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fhp1.jpg?alt=media&token=5f64693b-add0-4213-aaf0-400c24c4ef75",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fhp2.jpg?alt=media&token=14e88291-40a3-47fb-ab7d-a3229c9fb0c5",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fhp3.jpg?alt=media&token=164c1312-20e5-42ef-98c7-f6d550e2d63b"
+        ],
+
+        "desc": "Notebook convertible 360 grados. AMD® Ryzen con gráficos Radeon Vega integrados. Pantalla Full HD IPS.",
+
+        "price": 949990,
+
+        "specs": ["13''", "512GB"],
+
+        "bestSeller": false
+      },
+
+      {
+        "name": "Surface Laptop 3",
+
+        "id": "N006",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/notebooks%2Fsurface.png?alt=media&token=b7ca228a-4b91-42c8-afa3-0857820fca43",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fsurf1.jpg?alt=media&token=53249ef4-6839-4314-bfd9-20bf965bd81d",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fsurf2.jpg?alt=media&token=078bbcc1-c2da-4cb0-8d47-ec5687b2d577",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fsurf3.jpg?alt=media&token=b8ac6a33-6377-4bed-b0e1-3ccb35e312d5"
+        ],
+
+        "desc": "El balance perfecto entre estilo y velocidad. Pantalla táctil FHD de 13.5 pulgadas. Intel UHD 620.",
+
+        "price": 1969990,
+
+        "specs": ["13.5''", "256GB"],
+
+        "bestSeller": false
+      }
+    ]
+  },
+
+  {
+    "keyboards": [
+      {
+        "name": "Ducky SF Emerald",
+
+        "id": "K001",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/keyboards%2Femerald.png?alt=media&token=bcfc77d7-89a0-4646-8b31-003d4b508b75",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Feme1.jpg?alt=media&token=e0c3e4ec-15dc-4d10-b9f5-2a7a310e101f",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Feme2.jpg?alt=media&token=541754f2-25a6-468d-b3cd-dc0401d8481c",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Feme3.jpg?alt=media&token=676deed0-3e91-4a56-8f01-8f32639aae69"
+        ],
+
+        "desc": "Teclado Mecánico de 65%, acabado iridiscente especial en carcasa de aluminio.",
+
+        "price": 129990,
+
+        "specs": ["65%", "Cherry MX"],
+
+        "bestSeller": true
+      },
+
+      {
+        "name": "Epomaker Keycool KC-84",
+
+        "id": "K002",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/keyboards%2Fepomaker-ep84.png?alt=media&token=fae0c0a2-daa1-4628-8d82-84e8f55bfdbc",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fepo1.jpg?alt=media&token=979d17a1-7c63-4030-86dd-e5d1e7e707f5",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fepo2.jpg?alt=media&token=6474c7a8-7820-4ce5-9721-336b5e5c214d",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fepo3.jpg?alt=media&token=c09321d9-3e1f-4257-a8ca-6f3350ba8ce0"
+        ],
+
+        "desc": "Teclado mecánico compacto de 65%. Conjunto de 84 teclas completo de números, teclas de función y flechas.",
+
+        "price": 149990,
+
+        "specs": ["65%", "Gateron Blue"],
+
+        "bestSeller": false
+      },
+
+      {
+        "name": "Epomaker Niz Plum",
+
+        "id": "K003",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/keyboards%2Fepomaker.png?alt=media&token=a1057938-45f2-49ab-8e7f-58a79f66d440",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fniz1.jpg?alt=media&token=333baec4-d4c7-4d02-b3cb-4c48251080d7",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fniz2.jpg?alt=media&token=550cc249-a26a-45d9-b33d-6e7af56e780c",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fniz3.jpg?alt=media&token=35230ee8-e4f3-48df-a924-77bd62a41209"
+        ],
+
+        "desc": "Teclado programable con interruptores de teclas electro-capacitivos, funcionamiento silencioso y tactil.",
+
+        "price": 112990,
+
+        "specs": ["60%", "Gateron Red"],
+
+        "bestSeller": false
+      },
+
+      {
+        "name": "Keychron K2",
+
+        "id": "K004",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/keyboards%2Fkeychron.png?alt=media&token=082e4664-67af-481b-af20-678fac554597",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fkey2.jpg?alt=media&token=ad806aaf-0462-4b9b-be4e-8876ea5627a2",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fkey1.jpg?alt=media&token=0bd0a6ea-9ace-4c82-81e1-74e68a1154f4",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fkey3.jpg?alt=media&token=5624f1a8-baaa-4980-970b-79e9d2867fad"
+        ],
+
+        "desc": "Teclado de 65% compacto y hot-swappable. Ingeniado con más de 15 tipos de estilos y efectos RGB.",
+
+        "price": 69990,
+
+        "specs": ["65%", "Gateron Brown"],
+
+        "bestSeller": false
+      },
+
+      {
+        "name": "Logitech MX Keys",
+
+        "id": "K005",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/keyboards%2Flogitech.png?alt=media&token=0b896e54-8d23-491d-8fed-db389dda7f0a",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fmx1.jpg?alt=media&token=eff0da26-adc0-445f-8034-37f5c68bb3b9",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fmx2.jpg?alt=media&token=ea527197-e2ff-41dd-a755-87b72eec7013",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fmx3.jpg?alt=media&token=486b04d9-5e41-423b-bb84-3996ca20ae87"
+        ],
+
+        "desc": "Mayor estabilidad de las teclas, para que sientas las pulsaciones sin tener que oírlas.",
+
+        "price": 145990,
+
+        "specs": ["FSZ", "Tactil"],
+
+        "bestSeller": false
+      },
+
+      {
+        "name": "Magic Keyboard",
+
+        "id": "K006",
+
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/keyboards%2Fmagickeyboard.png?alt=media&token=b53ff920-80b1-458e-8d9f-f154128723ea",
+
+        "gallery": [
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fmk1.jpg?alt=media&token=97d472aa-c06b-4f58-8adc-ca23d68377c2",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fmk2.jpg?alt=media&token=3e2ff69d-c4e1-40f5-99b6-7a13f91e8d4d",
+
+          "https://firebasestorage.googleapis.com/v0/b/visumshop.appspot.com/o/gallery%2Fmk3.jpg?alt=media&token=dd063972-95fa-4916-987c-fac541e6e46c"
+        ],
+
+        "desc": "El Magic Keyboard es un teclado con un nuevo diseño elegante, batería recargable y grandes prestaciones.",
+
+        "price": 119990,
+
+        "specs": ["FSZ", "Scissor"],
+
+        "bestSeller": false
+      }
+    ]
+  }
+]

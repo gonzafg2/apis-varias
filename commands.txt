@@ -3,3 +3,13 @@ firebase database:set /paso_a_paso estado.json -P apis-varias-mias
 firebase database:set /pizzeria pizzas.json -P apis-varias-mias
 
 firebase database:set /planes_moviles planes_moviles.json -P apis-varias-mias
+
+firebase database:set /planes_crossfit crossfit.json -P apis-varias-mias
+
+firebase database:set /visumtech visumtech.json -P apis-varias-mias
+
+firebase database:set /regiones_comunas regiones-comunas.json -P apis-varias-mias
+
+firebase database:set /bees bees.json -P apis-varias-mias
+
+firebase database:set /sucursales_scotia sucursales-scotia.json -P apis-varias-mias
